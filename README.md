@@ -22,15 +22,15 @@ Through these projects, I have implemented and practiced:
 
 ### 📂 Repository Structure
 
-| Folder/File | Description | Key Topics |
+| File / Folder | Topic | Description |
 | :--- | :--- | :--- |
-| `01-Basics/` | Intro exercises & simple calculations | Input/Output, Variables |
-| `02-Loops/` | Logic and iteration problems | While/For Loops |
-| `03-Functions/` | Modular code examples | Methods, Recursion |
-| `04-Data-Structures/` | List and Dictionary manipulation | Arrays, Hash Maps |
-| `Final-Project/` | *[If you have a bigger task]* | Complex Logic |
-
-*(Note: The structure reflects the chronological progression of the university curriculum.)*
+| `Lab_01/` *(or 01-Basics)* | **Intro & Syntax** | First steps with Python syntax, variables, and data types (int, float, str). |
+| `Lab_02/` *(or 02-Conditions)* | **Conditional Logic** | Using `if`, `elif`, `else` statements to control program flow. |
+| `Lab_03/` *(or 03-Loops)* | **Loops & Iteration** | Solving problems using `for` and `while` loops. |
+| `Lab_04/` *(or 04-Lists)* | **Lists & Tuples** | Manipulation of collections, indexing, slicing, and list methods. |
+| `Lab_05/` *(or 05-Functions)* | **Functions** | Creating modular code with parameters and return values. |
+| `Lab_06/` *(or 06-Strings)* | **String Processing** | Text formatting, manipulation, and ASCII operations. |
+| `Homeworks/` | **Assignments** | Independent coursework solving algorithmic problems. |
 
 ---
 
