@@ -39,4 +39,4 @@ To run any of the scripts locally, ensure you have Python installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/veselinkalinov/Python-1-s-Semester-.git](https://github.com/veselinkalinov/Python-1-s-Semester-.git)
+   git clone [https://github.com/veselinkalinov/university-python-labs.git](https://github.com/veselinkalinov/university-python-labs.git)
