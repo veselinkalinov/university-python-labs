@@ -17,28 +17,6 @@ It serves as a comprehensive archive of laboratory exercises, homework assignmen
 * **File I/O:** Reading and writing data for persistent storage.
 * **Mathematical Modeling:** Solving engineering-related problems using Python logic.
 
----
-
-### 📂 Repository Structure
-
-| Folder | Topic | Key Focus |
-| :--- | :--- | :--- |
-| `01-Basics/` | **Intro & Syntax** | Primitive types, basic I/O, and arithmetic operations. |
-| `02-Conditions/` | **Logic Flow** | Boolean algebra and conditional branching. |
-| `03-Loops/` | **Iteration** | Nested loops and control statements (`break`, `continue`). |
-| `04-Collections/` | **Lists & Tuples** | Indexing, slicing, and sequence manipulation. |
-| `05-Dictionaries/` | **Key-Value Pairs** | Working with sets and dictionary methods. |
-| `06-Functions/` | **Modularity** | Code reuse, arguments, and return types. |
-| `07-Algorithms/` | **Searching/Sorting** | Implementing logic for data organization. |
-| `08-Files/` | **File Handling** | External data processing and text file manipulation. |
-| `09-OOP-Intro/` | **Classes & Objects** | Basic class structure and instance attributes. |
-| `10-OOP-Adv/` | **Inheritance** | Class hierarchies and method overriding. |
-| `11-Exceptions/` | **Error Handling** | Managing runtime errors and validation. |
-| `12-Final/` | **Review** | Comprehensive lab exercises combining all concepts. |
-| `Homeworks/` | **Assignments** | Independent solutions to semester tasks. |
-
----
-
 ### 💻 How to Run
 To run any of the scripts locally, ensure you have Python 3.x installed.
 
