@@ -11,7 +11,7 @@ while True:
             print("n trqbva da otgovarq na 20<n<40")
             continue
     except ValueError:
-        print("Nevaliden vhod")
+        print("Nevaliden vhhod")
 
 list1 = [random.randint(2, 200) for _ in range(n)]
 print(f"List1:{list1}")
