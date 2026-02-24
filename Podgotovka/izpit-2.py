@@ -103,7 +103,7 @@ class ClothesShop:
 
     def display_info(self):
         print(
-            f"clothe_type:{self.clothe_type}\nbrand:{self.brand}\nprice:{self.price}\nquantity:{self.quantity}\nsize:{self.size}")
+            f"clothe_type:{self.clothe_type}\nbrrand:{self.brand}\nprice:{self.price}\nquantity:{self.quantity}\nsize:{self.size}")
 
 
 clothes_list = []
